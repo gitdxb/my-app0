@@ -4,6 +4,8 @@
 body {
     font-family: 'Inter', sans-serif;
     margin: 0;
+    height: 100vh;
+    background-color: #282D35;
 }
 nav {
     display: flex;
@@ -29,4 +31,12 @@ nav {
 .nav--icon {
     height: 30px;
     margin-right: 7px;
+}
+main {
+    padding: 57px 27px;
+    color: white;
+}
+.main-title {
+    margin:0;
+    font-size: 39px;
 }
